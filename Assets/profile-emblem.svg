@@ -1,0 +1,58 @@
+<svg viewBox="0 0 760 60" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Decorative divider: midnight clock, glass slipper as a neural network, AI node cluster">
+  <rect x="0" y="0" width="760" height="60" rx="30" fill="#0B1229"/>
+
+  <!-- left: midnight clock -->
+  <circle cx="120" cy="30" r="14" fill="none" stroke="#D4AF37" stroke-width="1.5"/>
+  <line x1="120" y1="30" x2="120" y2="20" stroke="#D4AF37" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="120" y1="30" x2="127" y2="30" stroke="#D4AF37" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="120" cy="30" r="1.5" fill="#D4AF37"/>
+  <g fill="#4FD6E8">
+    <circle cx="95" cy="16" r="1.6"/>
+    <circle cx="145" cy="44" r="1.4"/>
+    <circle cx="100" cy="45" r="1.2"/>
+  </g>
+
+  <!-- center: glass slipper traced as a neural network -->
+  <g transform="translate(350,8)">
+    <path d="M10,38 C8,28 14,18 26,14 C36,10 46,12 50,18 C54,24 50,30 44,32 L44,40 C44,44 40,46 34,46 L14,46 C8,46 6,42 10,38 Z"
+          fill="none" stroke="#D4AF37" stroke-width="1.8" stroke-linejoin="round"/>
+    <path d="M44,32 L52,42 C54,44 52,46 48,46 L44,46 Z"
+          fill="none" stroke="#D4AF37" stroke-width="1.8" stroke-linejoin="round"/>
+    <g stroke="#4FD6E8" stroke-width="0.8" opacity="0.75">
+      <line x1="26" y1="14" x2="50" y2="18"/>
+      <line x1="50" y1="18" x2="44" y2="32"/>
+      <line x1="44" y1="32" x2="14" y2="46"/>
+      <line x1="26" y1="14" x2="14" y2="46"/>
+    </g>
+    <g fill="#4FD6E8">
+      <circle cx="26" cy="14" r="1.8"/>
+      <circle cx="50" cy="18" r="1.8"/>
+      <circle cx="44" cy="32" r="1.8"/>
+      <circle cx="14" cy="46" r="1.8"/>
+    </g>
+  </g>
+
+  <!-- right: AI node cluster -->
+  <g stroke="#4FD6E8" stroke-width="0.8" opacity="0.85">
+    <line x1="610" y1="24" x2="635" y2="18"/>
+    <line x1="635" y1="18" x2="655" y2="30"/>
+    <line x1="610" y1="24" x2="655" y2="30"/>
+    <line x1="635" y1="18" x2="635" y2="42"/>
+    <line x1="610" y1="24" x2="635" y2="42"/>
+    <line x1="655" y1="30" x2="635" y2="42"/>
+  </g>
+  <g fill="#D4AF37">
+    <circle cx="610" cy="24" r="2"/>
+    <circle cx="635" cy="18" r="2"/>
+    <circle cx="655" cy="30" r="2"/>
+    <circle cx="635" cy="42" r="2"/>
+  </g>
+
+  <!-- scattered fairy-dust sparkles -->
+  <g fill="#D4AF37" opacity="0.6">
+    <circle cx="230" cy="12" r="1"/>
+    <circle cx="270" cy="48" r="1.2"/>
+    <circle cx="500" cy="14" r="1"/>
+    <circle cx="540" cy="46" r="1.2"/>
+  </g>
+</svg>
