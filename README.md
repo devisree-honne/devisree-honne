@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1229,50:1F3B73,100:2E4C8A&height=220&section=header&text=Devi%20Sree%20Honne&fontSize=46&fontAlignY=38&fontColor=D4AF37&animation=fadeIn&desc=Computer%20Science%20Undergrad%20%C2%B7%20AI%2FML%20%26%20Computer%20Vision&descAlignY=58&descSize=18&descColor=8892B0" width="100%" alt="header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1229,50:1F3B73,100:2E4C8A&height=220&section=header&text=Devi%20Sree%20Honne&fontSize=46&fontAlignY=38&fontColor=D4AF37&animation=fadeIn&desc=Computer%20Science%20Undergrad%20%C2%B7%20AI%2FML%20%26amp%3B%20Computer%20Vision&descAlignY=58&descSize=18&descColor=8892B0" width="100%" alt="header banner"/>
 
 <img src="https://raw.githubusercontent.com/devisree-honne/devisree-honne/main/assets/profile-emblem.svg" width="600" alt="divider"/>
 
